@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanjays50portfolio.netlify.app/](https://sanjays50portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN , Deep Learning**
+- 💬 Ask me about **MERN , Deep Learning , Data Structure and Algorithms**
 
 - 📫 How to reach me **sanjayshekhawat778@gmail.com**
 
