@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning React Native<br><br>👨‍💻 All of my projects are available at https://sanjays50portfolio.netlify.app/<br><br>💬 Ask me about MERN , Deep Learning , Data Structure and Algorithms<br><br>📫 How to reach me sanjayshekhawat778@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1sb3iVWgMU1uBBotBGv9ZLzuLTFCpcvz9/view?usp=drive_link
+🌱 I’m currently learning React Native<br><br>👨‍💻 Visit my portfolio at https://sanjays50portfolio.netlify.app/<br><br>💬 Ask me about MERN , Deep Learning , Data Structure and Algorithms<br><br>📫 How to reach me sanjayshekhawat778@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1sb3iVWgMU1uBBotBGv9ZLzuLTFCpcvz9/view?usp=drive_link
 
 
 ## 🌐 Socials:
